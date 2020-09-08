@@ -11,5 +11,11 @@ namespace CourseBook.Controllers
             var model = new FacultySelectionViewModel();
             return View(model);
         }
+
+        public IActionResult GroupSelection()
+        {
+            var model = new GroupSelectionViewModel();
+            return View(model);
+        }
     }
 }
