@@ -37,4 +37,5 @@ C:\Users\Deqi\RiderProjects\SoftwareEngineerningTask\CourseBook\CourseBook\obj\D
 C:\Users\Deqi\RiderProjects\SoftwareEngineerningTask\CourseBook\CourseBook\obj\Debug\netcoreapp3.1\CourseBook.csproj.CopyComplete
 C:\Users\Deqi\RiderProjects\SoftwareEngineerningTask\CourseBook\CourseBook\obj\Debug\netcoreapp3.1\Razor\Views\Home\test.cshtml.g.cs
 C:\Users\Deqi\RiderProjects\SoftwareEngineerningTask\CourseBook\CourseBook\obj\Debug\netcoreapp3.1\Razor\Views\Schedule\Schedule.cshtml.g.cs
-C:\Users\Deqi\RiderProjects\SoftwareEngineerningTask\CourseBook\CourseBook\obj\Debug\netcoreapp3.1\Razor\Views\Schedule\test.cshtml.g.cs
+C:\Users\Deqi\RiderProjects\SoftwareEngineerningTask\CourseBook\CourseBook\obj\Debug\netcoreapp3.1\Razor\Views\Selects\FacultySelection.cshtml.g.cs
+C:\Users\Deqi\RiderProjects\SoftwareEngineerningTask\CourseBook\CourseBook\obj\Debug\netcoreapp3.1\Razor\Views\Selects\GroupSelection.cshtml.g.cs

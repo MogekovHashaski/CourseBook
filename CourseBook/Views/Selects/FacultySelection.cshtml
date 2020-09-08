@@ -1,0 +1,26 @@
+@model FacultySelectionViewModel
+
+@{
+    ViewBag.Title = "Faculty";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Faculty</title>
+</head>
+<h1>Please select your faculty.</h1>
+<body>
+<div>
+    <ul>
+        @for (var i = 0; i < 7; i++)
+        {
+            <li>
+                <a asp-controller="Selects" asp-action="GroupSelection">This if a faculty</a>
+            </li>
+        }
+    </ul>
+</div>
+</body>
+</html>
