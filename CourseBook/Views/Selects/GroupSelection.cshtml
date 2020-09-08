@@ -8,11 +8,18 @@
 
 <html>
 <head>
-    <title>title</title>
+    <title>Group</title>
 </head>
 <body>
 <div>
-      
+    <ul>
+        @for (var i = 0; i < 7; i++)
+        {
+            <li>
+                <a asp-controller="Schedule" asp-action="Schedule">This is a group.</a>
+            </li>
+        }
+    </ul>
 </div>
 </body>
 </html>
