@@ -6,10 +6,17 @@
 
 <!DOCTYPE html>
 
+<script>
+function goBack() {
+  window.history.back()
+}
+</script>
+
 <html>
 <head>
     <title>Group</title>
 </head>
+<h1>Please select your group.</h1>
 <body>
 <div>
     <ul>
@@ -20,6 +27,8 @@
             </li>
         }
     </ul>
+    <br/>
+    <button onclick="goBack()">Go Back</button>
 </div>
 </body>
 </html>
