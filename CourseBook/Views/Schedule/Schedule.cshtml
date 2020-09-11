@@ -4,6 +4,12 @@
 
 <!DOCTYPE html>
 
+<script>
+function goBack() {
+  window.history.back()
+}
+</script>
+
 <html>
 <head>
     <title>title</title>
@@ -65,7 +71,7 @@
         </tr>
     </table>
     <br/>
-    <button asp-controller="Selects" asp-action="GroupSelection">Go Back</button>
+    <button onclick="goBack()">Go Back</button>
 </div>
 </body>
 </html>

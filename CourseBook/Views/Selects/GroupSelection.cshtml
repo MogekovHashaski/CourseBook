@@ -6,6 +6,12 @@
 
 <!DOCTYPE html>
 
+<script>
+function goBack() {
+  window.history.back()
+}
+</script>
+
 <html>
 <head>
     <title>Group</title>
@@ -22,7 +28,7 @@
         }
     </ul>
     <br/>
-    <button asp-action="FacultySelection">Go Back</button>
+    <button onclick="goBack()">Go Back</button>
 </div>
 </body>
 </html>
