@@ -6,6 +6,11 @@
 
 <!DOCTYPE html>
 
+<script>
+function goBack() {
+  window.history.back()
+}
+</script>
 <html>
 <head>
     <title>Teacher</title>
@@ -17,10 +22,12 @@
         @for (var i = 0; i < 7; i++)
         {
             <li>
-                <a asp-controller="Selects" asp-action="GroupSelection">This is a teacher</a>
+                <a asp-controller="Schedule" asp-action="Schedule">This is a teacher</a>
             </li>
         }
     </ul>
+     <br/>
+     <button onclick="goBack()">Go Back</button>
 </div>
 </body>
 </html>
