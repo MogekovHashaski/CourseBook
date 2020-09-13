@@ -39,3 +39,4 @@ C:\Users\Deqi\RiderProjects\SoftwareEngineerningTask\CourseBook\CourseBook\obj\D
 C:\Users\Deqi\RiderProjects\SoftwareEngineerningTask\CourseBook\CourseBook\obj\Debug\netcoreapp3.1\Razor\Views\Schedule\Schedule.cshtml.g.cs
 C:\Users\Deqi\RiderProjects\SoftwareEngineerningTask\CourseBook\CourseBook\obj\Debug\netcoreapp3.1\Razor\Views\Selects\FacultySelection.cshtml.g.cs
 C:\Users\Deqi\RiderProjects\SoftwareEngineerningTask\CourseBook\CourseBook\obj\Debug\netcoreapp3.1\Razor\Views\Selects\GroupSelection.cshtml.g.cs
+C:\Users\Deqi\RiderProjects\SoftwareEngineerningTask\CourseBook\CourseBook\obj\Debug\netcoreapp3.1\Razor\Views\Selects\TeacherSelection.cshtml.g.cs
